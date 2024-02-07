@@ -23,8 +23,7 @@
 Identifying Missing Values for each feature.Utilized the groupby method on the missing values column to create subsets of the data for each country and Imputing with Mean Values.using the transform function with a lambda expression. The use of the mean value ensures that imputed values are representative of the overall distribution within each country.
 **Encoding and Data Type Conversion**: 
 
-To prepare categorical features for modeling, we employ LabelEncoder encoding. This technique transforms categorical values into numerical representations based on their intrinsic nature and their relationship with the target variable. Additionally, it's essential to convert data types to ensure they match the requirements of our modeling process.
-**Exploratory Data Analysis (EDA):**
+To prepare categorical features for modeling, we employ LabelEncoder encoding. This technique transforms categorical values into numerical representations based on their intrinsic nature and their relationship with the target variable.
 
 **Algorithm Selection:**
 
