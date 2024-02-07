@@ -8,13 +8,13 @@
 
 **Key Technologies and Skills**:
 
-Python
+**Python
 Numpy
 Pandas
 Scikit-Learn
 Matplotlib
 Seaborn
-Pickle
+Pickle**
 
 
 
