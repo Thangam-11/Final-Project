@@ -28,7 +28,7 @@ To prepare categorical features for modeling, we employ LabelEncoder encoding. T
 
 **Algorithm Selection:**
 
-After thorough evaluation, XGBRegressor, demonstrate commendable testing accuracy. Upon checking for any overfitting issues in both training and testing, both models exhibit strong performance without overfitting concerns. I choose the Random Forest Regressor for its ability to strike a balance between interpretability and accuracy, ensuring robust performance on unseen data.
+After thorough evaluation, XGBRegressor, demonstrate commendable testing accuracy. Upon checking for any overfitting issues in both training and testing, both models exhibit strong performance without overfitting concerns. I choose the XGBRegressor Regressor for its ability to strike a balance between interpretability and accuracy, ensuring robust performance on unseen data.
 
 **Hyperparameter Tuning with GridSearchCV and Cross-Validation:**
 
