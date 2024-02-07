@@ -14,7 +14,7 @@
 4.Scikit-Learn
 5.Matplotlib
 6.Seaborn
-7.Pickle
+ Pickle
 
 **Data Preprocessing**:
 
