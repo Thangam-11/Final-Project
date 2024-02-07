@@ -8,19 +8,20 @@
 
 **Key Technologies and Skills**:
 
-1.Python
-2.Numpy
-3.Pandas
-4.Scikit-Learn
-5.Matplotlib
-6.Seaborn
- Pickle
+Python
+Numpy
+Pandas
+Scikit-Learn
+Matplotlib
+Seaborn
+Pickle
 
 **Data Preprocessing**:
 
 **Handling Missing Values**:
 
 Identifying Missing Values for each feature.Utilized the groupby method on the missing values column to create subsets of the data for each country and Imputing with Mean Values.using the transform function with a lambda expression. The use of the mean value ensures that imputed values are representative of the overall distribution within each country.
+
 **Encoding and Data Type Conversion**: 
 
 To prepare categorical features for modeling, we employ LabelEncoder encoding. This technique transforms categorical values into numerical representations based on their intrinsic nature and their relationship with the target variable.
