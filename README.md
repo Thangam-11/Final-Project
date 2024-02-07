@@ -6,7 +6,8 @@
 **Purpose**:
             The primary goal of this dataset is to provide a more accurate representation of food price trends in rural or impoverished areas, where traditional sources of consumer prices may face delays or offer only aggregated data. This information is valuable for policymakers, researchers, and organizations working in areas with large populations living in fragile conditions.
 
-**Key Technologies and Skills**
+**Key Technologies and Skills**:
+
 Python
 Numpy
 Pandas
