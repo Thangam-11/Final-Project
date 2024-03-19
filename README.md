@@ -1,4 +1,4 @@
-# Food Price Inflation :
+# 2.Food Price Inflation :
 
 **Introduction**:
             The dataset comprises estimates of food prices, aiming to capture local price fluctuations in regions where people are vulnerable to localized price surges. These estimates are generated using a machine-learning algorithm that predicts ongoing subnational price surveys, often achieving accuracy comparable to direct price measurements.
